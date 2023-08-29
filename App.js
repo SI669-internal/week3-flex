@@ -251,4 +251,13 @@ const stylesSG = StyleSheet.create({
   }
 });
 
+// to run different versions of the app uncomment *just* the version you want
+
+// export default App; // starting point
+// export default App2; // big and green
+// export default App3; // big green and flex 0.5
+// export default App4; // 3 bars
+// export default App5; // 3 smaller bars, space around
+// export default App6; // 3 boxes, width 200
+// export default App7; // 3 boxes horizontally
 export default AppSilverAndGold;
